@@ -38,6 +38,11 @@ bSex :
 		<bSex>0</bSex>
 	</VOICE>
 	<VOICE>
+		<szVoiceSetName>Male 5</szVoiceSetName>
+		<voiceset>314</voiceset>
+		<bSex>0</bSex>
+	</VOICE>
+	<VOICE>
 		<szVoiceSetName>Male Russian 1</szVoiceSetName>
 		<voiceset>192</voiceset>
 		<bSex>0</bSex>
