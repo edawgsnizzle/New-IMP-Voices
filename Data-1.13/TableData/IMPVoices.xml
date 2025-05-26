@@ -38,7 +38,7 @@ bSex :
 		<bSex>0</bSex>
 	</VOICE>
 	<VOICE>
-		<szVoiceSetName>Male 5</szVoiceSetName>
+		<szVoiceSetName>Male 5: Yugoslav</szVoiceSetName>
 		<voiceset>314</voiceset>
 		<bSex>0</bSex>
 	</VOICE>
@@ -90,6 +90,11 @@ bSex :
 	<VOICE>
 		<szVoiceSetName>Female 5</szVoiceSetName>
 		<voiceset>301</voiceset>
+		<bSex>1</bSex>
+	</VOICE>
+		<VOICE>
+		<szVoiceSetName>Female 6: Empowering</szVoiceSetName>
+		<voiceset>313</voiceset>
 		<bSex>1</bSex>
 	</VOICE>
 	<VOICE>
