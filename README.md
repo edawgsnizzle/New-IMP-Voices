@@ -9,4 +9,4 @@ Female 2: Assertive. This is the same voice as Female voice 2 but more assertive
 
 Female 6: Blunt. This voice is more on the generic side and a lot more tame compared to some of the others but it's definitely fitting to ja2. Occasional explicit language.
 
-Male 5. Based off Tony's voice, this voice profile is an Eastern European voice. Explicit.
+Male 5: Yugoslav. Based off Tony's voice, this voice profile is an Eastern European voice. Quite Explicit.
